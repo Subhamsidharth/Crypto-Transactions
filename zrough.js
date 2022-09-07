@@ -40,3 +40,8 @@
 //     const response=await mypost.json()
 //     console.log(response)
 // }getpost();
+
+// localhost:3000/transaction?address=0xce94e5621a5f7068253c42558c147480f38b5e0d&apikey=KHDE29JDBNN6FH91USIJV2HUTQBU5F57NS
+// localhost:3000/Details?address=0xce94e5621a5f7068253c42558c147480f38b5e0d
+
+//mongodb+srv://shreya:apobzatlzEM8Y1QM@shreyasingh.fivskon.mongodb.net/cryptodb
